@@ -1,0 +1,6 @@
+﻿  hash.cpp
+C:\Users\Eng-Taha.jo\Desktop\hash\hash\hash.cpp(23,26): warning C4244:  'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Eng-Taha.jo\Desktop\hash\hash\hash.cpp(26,27): warning C4244:  'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Eng-Taha.jo\Desktop\hash\hash\hash.cpp(102,14): warning C4244:  'initializing': conversion from '__int64' to 'long', possible loss of data
+C:\Users\Eng-Taha.jo\Desktop\hash\hash\hash.cpp(126,25): warning C4244:  'argument': conversion from '__int64' to 'long', possible loss of data
+  hash.vcxproj -> C:\Users\Eng-Taha.jo\Desktop\hash\Debug\hash.exe
