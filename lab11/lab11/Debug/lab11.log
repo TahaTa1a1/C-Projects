@@ -1,0 +1,4 @@
+﻿  lab11.cpp
+C:\Users\Eng-Taha.jo\Desktop\lab11\lab11\lab11.cpp(33,21): error C2440:  'initializing': cannot convert from 'int' to 'const int *'
+C:\Users\Eng-Taha.jo\Desktop\lab11\lab11\lab11.cpp(33,21): message :  Reason: cannot convert from 'int' to 'const int *'
+C:\Users\Eng-Taha.jo\Desktop\lab11\lab11\lab11.cpp(33,19): message :  Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
